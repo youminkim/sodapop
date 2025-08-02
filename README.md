@@ -2,6 +2,9 @@ Robots for fun
 
 # Lerobot
 
-> conda activate lerobot
+```
+> conda activate lerobot 
 > python lerobot_kbd.py
+```
+
 
